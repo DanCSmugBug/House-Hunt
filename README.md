@@ -32,3 +32,5 @@ one, but I'm glad it's free of them. After my brother-in-law immediately broke t
 the inVerify class (or input verify) which I retroactively added to Penguin-Derby. In retrospect, I guess it doesn't make much since to
 have it as a class. I should probably convert it to a library at some stage. Ah well. Perhaps in the future I may do that, or perhaps 
 I'll come up with a practical reason for why I should keep it as a class. Now I'm rambling.
+
+As with Penguin Derby, this project was created in Visual Studio and the files were imported here.
