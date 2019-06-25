@@ -28,11 +28,3 @@ int main()
     }
     return 0;
 }
-
-
-
-// Current Bug List: 
-// House generation system seems to work fine, at least for smaller houses
-// monster seems to have gotten got placed without the objective
-// Had one game scenario where attempting to move east caused a repeat of the player choice line
-// Memory Leaks seemingly fixed
